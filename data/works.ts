@@ -20,16 +20,10 @@ export const works: Work[] = [
         intro:'fff',
     },
     {
-        id:'X-Clone',
+        id:'x-clone',
         title:'X-Clone',
         href:'',
         intro:'fff'
-    },
-    {
-        id:'threeweb',
-        title:'Three.js Website',
-        href:'',
-        intro:'fff',
     }
 ] as const;
 
