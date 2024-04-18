@@ -13,7 +13,7 @@ export default function Pages() {
         </p>
       </div>
 
-      <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-2 flex-1 p-32'>
+      <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-2 flex-1 p-32 hover:shadow-md'>
         {works.map((work) => (
           <WorkCard
             key={work.id}

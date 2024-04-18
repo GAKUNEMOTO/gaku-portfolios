@@ -1,6 +1,6 @@
 export default function IntroCard() {
   return (
-    <div className='shadow-sm p-10 border rounded-md w-76 h-auto'>
+    <div className='hover:shadow-lg shadow-sm transition duration-500 p-10 border rounded-md w-76 h-auto'>
         {/* <p>
           <span>2002年、埼玉県飯能市生まれ。アメリカ大学3年生</span>
           <br />

@@ -6,6 +6,7 @@ import Header from "./components/header";
 import { Suspense } from "react";
 import { cn } from "@/lib/utils";
 import { AppConfig } from "@/app.config";
+import Footer from "./components/footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -39,6 +40,7 @@ export default function RootLayout({
           </div>
           </main>
         </ThemeProvider>
+        <Footer/>
       </body>
 
     </html>
