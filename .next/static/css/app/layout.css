@@ -708,6 +708,12 @@ video {
   .mt-6 {
   margin-top: 1.5rem;
 }
+  .mb-10 {
+  margin-bottom: 2.5rem;
+}
+  .mb-32 {
+  margin-bottom: 8rem;
+}
   .block {
   display: block;
 }

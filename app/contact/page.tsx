@@ -9,7 +9,7 @@ export default function Contact() {
       <div className="p-20">
       <h1 className="text-muted-foreground font-bold text-6xl mb-6 border-b">Contact</h1>
       </div>
-      <div className="flex justify-center items-center">
+      <div className="flex justify-center items-center mb-32">
         <ContactForm/>
       </div>
     </div>
